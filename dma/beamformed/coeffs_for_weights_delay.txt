@@ -1,0 +1,10 @@
+Optimal 2nd-order DMA coefficients & delay
+α = 0.785 rad, λ = 1.000
+
+a0 = 0.2350
+a1 = 0.4300
+a2 = 0.3350
+
+Delay D = 2.28 samples (τ = 0.05 ms)
+wL = wR = 0.3350
+wC = 0.0970
